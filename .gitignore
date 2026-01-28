@@ -1,2 +1,7 @@
 *.jsonl
+farm2vets topics/
+healthbench/
+rubric_analysis/
+*.json
+*.csv
 
