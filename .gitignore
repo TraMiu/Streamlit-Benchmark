@@ -4,4 +4,4 @@ healthbench/
 rubric_analysis/
 *.json
 *.csv
-
+.env
