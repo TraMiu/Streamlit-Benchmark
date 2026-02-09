@@ -698,7 +698,7 @@ except ImportError:
 # CONFIGURATION
 # ==========================================
 # 1. Set your specific default file path here
-DEFAULT_FILE_PATH = "dataset.json" 
+DEFAULT_FILE_PATH = "healthbench/2025-05-07-06-14-12_oss_eval.jsonl" 
 
 # ==========================================
 # 1. EMBEDDED DEMO DATA (Fallback)
